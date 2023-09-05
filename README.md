@@ -1,13 +1,14 @@
 # PhoneBookHumanGroupPL Ödevi
 
 # Mail tasarımı
-![image](https://github.com/osmanmurat/PhoneBookHumanGroupPL/assets/115216994/fbbdb7e7-8425-4ce0-9cb6-d6d70ff49a61)
+![Ekran görüntüsü 2023-09-05 174306](https://github.com/osmanmurat/PhoneBookHumanGroupPL/assets/115216994/b8803009-080e-4858-a74d-9f0b38cf8ee5)
+
 
 # İkinci İsim için SQL'de ekstra sütun
-![image](https://github.com/osmanmurat/PhoneBookHumanGroupPL/assets/115216994/79cbc491-645a-4129-beb3-63aef204d196)
+![Ekran görüntüsü 2023-09-05 174452](https://github.com/osmanmurat/PhoneBookHumanGroupPL/assets/115216994/e49a4ca2-6e38-4c8f-8f8e-30c063023c63)
+
 
 # Doğum günü Mesajı
-![image](https://github.com/osmanmurat/PhoneBookHumanGroupPL/assets/115216994/514dd833-e26a-41db-8f15-a144c60d2b59)
-![image](https://github.com/osmanmurat/PhoneBookHumanGroupPL/assets/115216994/cd920dc5-3c07-45a2-8ed9-bd115ab358a7)
-![image](https://github.com/osmanmurat/PhoneBookHumanGroupPL/assets/115216994/f58706b6-d2be-4b1d-922d-80bcd79d3881)
-
+![Ekran görüntüsü 2023-09-05 174814](https://github.com/osmanmurat/PhoneBookHumanGroupPL/assets/115216994/e29ff81a-04d9-4119-ab6c-34bf6bd84090)
+![Ekran görüntüsü 2023-09-05 174646](https://github.com/osmanmurat/PhoneBookHumanGroupPL/assets/115216994/c3aa44fa-0d7c-44aa-8192-3faa9dba8e1a)
+![Ekran görüntüsü 2023-09-05 174749](https://github.com/osmanmurat/PhoneBookHumanGroupPL/assets/115216994/25242b5f-c205-44a4-841e-4a1160939b36)
