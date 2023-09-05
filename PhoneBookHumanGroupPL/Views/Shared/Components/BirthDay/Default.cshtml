@@ -1,0 +1,31 @@
+﻿@model MemberVM
+
+@if (Model.BirthDate == DateTime.Today)
+{
+    <div class="birthday-container">
+        <p>Doğum Günün Kutlu Olsun! Bugün senin özel günün! İyi ki doğdun.</p>
+        <img src="~/seomark/images/Balloons-aj.svg.png" alt="Doğum Günü Pastası" style="max-width: 4%; height: auto;">
+        <img src="~/seomark/images/Balloons-aj.svg.png" alt="Doğum Günü Pastası" style="max-width: 4%; height: auto;">
+        <img src="~/seomark/images/Balloons-aj.svg.png" alt="Doğum Günü Pastası" style="max-width: 4%; height: auto;">
+    </div>
+}
+
+<style>
+    .birthday-container {
+        background-color: #ff6f61;
+        color: #fff;
+        text-align: center;
+        padding: 10px;
+        font-size: 18px;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        max-width: 700px;
+        margin: 0 auto;
+        transition: transform 0.2s ease-in-out;
+        cursor: pointer;
+    }
+
+        .birthday-container:hover {
+            transform: scale(1.1);
+        }
+</style>
