@@ -5,7 +5,6 @@
 
 # İkinci İsim için SQL'de ekstra sütun
 ![image](https://github.com/osmanmurat/PhoneBookHumanGroupPL/assets/115216994/79cbc491-645a-4129-beb3-63aef204d196)
-
 ![image](https://github.com/osmanmurat/PhoneBookHumanGroupPL/assets/115216994/25b6ddbc-f373-4302-8340-3688bb42c12e)
 
 
